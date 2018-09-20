@@ -1,0 +1,59 @@
+{
+  "reports": [
+    {
+      "name": "Suite",
+      "dir": "test-results/Wed19Sep18_1143PM",
+      "startTime": 1537415006558
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Tue18Sep18_1137PM",
+      "startTime": 1537328265790
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Tue18Sep18_1133PM",
+      "startTime": 1537327992187
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Tue18Sep18_1130PM",
+      "startTime": 1537327846190
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Tue18Sep18_1127PM",
+      "startTime": 1537327674360
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Tue18Sep18_1125PM",
+      "startTime": 1537327524124
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Tue18Sep18_1123PM",
+      "startTime": 1537327404608
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Tue18Sep18_1119PM",
+      "startTime": 1537327183833
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Tue18Sep18_1112PM",
+      "startTime": 1537326738285
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Tue18Sep18_1105PM",
+      "startTime": 1537326344406
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Tue18Sep18_1104PM",
+      "startTime": 1537326280602
+    }
+  ]
+}

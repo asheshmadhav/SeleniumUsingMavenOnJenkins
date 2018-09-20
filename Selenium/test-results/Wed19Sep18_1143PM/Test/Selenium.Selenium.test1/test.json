@@ -1,0 +1,33 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "get",
+      "args": [
+        "{url=http://www.google.com}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 2163
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//input[@title='Search'], using=xpath}"
+      ],
+      "result": "id: 0.522610107529792-1",
+      "subLogs": [],
+      "duration": 54
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.xpath: //input[@title='Search']",
+        "{\"id\":\"0.522610107529792-1\",\"value\":[\"Infostretch\"]}"
+      ],
+      "result": "sendKeysToElement:null",
+      "subLogs": [],
+      "duration": 555
+    }
+  ],
+  "checkPoints": []
+}

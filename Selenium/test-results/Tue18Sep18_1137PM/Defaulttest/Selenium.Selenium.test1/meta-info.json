@@ -1,0 +1,19 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "test",
+        "sign": "test1.test()[pri:0, instance:Selenium.Selenium.test1@76a3e297]"
+      },
+      "dependsOn": [],
+      "startTime": 1537328265907,
+      "duration": 5005,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "total": 1,
+  "pass": 1,
+  "fail": 0,
+  "skip": 0,
+  "classes": [
+    "Selenium.Selenium.test1"
+  ],
+  "envInfo": {
+    "browser-actual-capabilities": {},
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "12",
+      "qaf-Version": "2.1",
+      "qaf-Build-Time": "12-Nov-2017 19:59:27"
+    },
+    "run-parameters": {},
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_171",
+      "os.arch": "x86_64",
+      "host": "ashishs-MBP",
+      "os.name": "Mac OS X",
+      "user.name": "ashishmadhav",
+      "os.version": "10.13.6"
+    }
+  },
+  "startTime": 1537326350722,
+  "endTime": 1537326350818
+}
